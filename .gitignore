@@ -1,0 +1,29 @@
+# 临时文件和缓存
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# 虚拟环境
+.venv/
+venv/
+
+# 生成的结果文件
+result.json
+result.md
+result.html
+test.json
+test.md
+test.html
+
+# 知识库数据
+knowledge_base.json
+test_kb.json
+quiz_bank.json
+
+# IDE
+.vscode/
+.idea/
+
+# 环境变量（如果你用.env存API Key）
+.env
